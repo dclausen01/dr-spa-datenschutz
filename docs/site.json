@@ -1,0 +1,89 @@
+{
+ "titel": "Datenschutz und Recht am Bild",
+ "kurzname": "dr-spa-datenschutz",
+ "seiten": [
+  {
+   "datei": "g1-personenbezogene-daten-erkennen.html",
+   "art": "modul",
+   "id": "g1",
+   "titel": "Personenbezogene Daten erkennen",
+   "review": "geprueft"
+  },
+  {
+   "datei": "g2-passworter-konten-und-freigaben.html",
+   "art": "modul",
+   "id": "g2",
+   "titel": "Passwörter, Konten und Freigaben",
+   "review": "geprueft"
+  },
+  {
+   "datei": "g3-was-teile-ich-wo.html",
+   "art": "modul",
+   "id": "g3",
+   "titel": "Was teile ich wo?",
+   "review": "geprueft"
+  },
+  {
+   "datei": "gm-meilenstein-merkblatt-was-teile-ich-wo.html",
+   "art": "modul",
+   "id": "gm",
+   "titel": "Meilenstein: Merkblatt „Was teile ich wo?“",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b1-recht-am-eigenen-bild-in-der-kita.html",
+   "art": "modul",
+   "id": "b1",
+   "titel": "Recht am eigenen Bild in der Kita",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b2-schweigepflicht-und-beobachtung.html",
+   "art": "modul",
+   "id": "b2",
+   "titel": "Schweigepflicht und Beobachtung",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b3-kita-apps-datenschutzkritisch-prufen.html",
+   "art": "modul",
+   "id": "b3",
+   "titel": "Kita-Apps datenschutzkritisch prüfen",
+   "review": "geprueft"
+  },
+  {
+   "datei": "bm-meilenstein-fallanalyse.html",
+   "art": "modul",
+   "id": "bm",
+   "titel": "Meilenstein: Fallanalyse",
+   "review": "geprueft"
+  },
+  {
+   "datei": "spickzettel.html",
+   "art": "seite",
+   "titel": "Spickzettel: Datenschutz kompakt"
+  },
+  {
+   "datei": "lehrkraefte.html",
+   "art": "lehrkraft",
+   "titel": "Für Lehrkräfte"
+  },
+  {
+   "datei": "index.html",
+   "art": "index",
+   "titel": "Übersicht"
+  },
+  {
+   "datei": "start.html",
+   "art": "start",
+   "titel": "🧭 Mein Lernpfad – hier geht's los"
+  },
+  {
+   "datei": "einstufung-im-beruf.html",
+   "art": "einstufung",
+   "titel": "🎯 Einstufungstest: direkt zu Im Beruf",
+   "stufe": "im-beruf",
+   "bestehen": 80
+  }
+ ]
+}

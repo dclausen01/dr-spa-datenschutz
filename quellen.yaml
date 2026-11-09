@@ -1,0 +1,71 @@
+# Quellen mit Prüfstatus – siehe referenzen/qualitaet.md
+- id: q-dsgvo-art4
+  titel: Art. 4 Nr. 1 DSGVO – personenbezogene Daten
+  url: https://dsgvo-gesetz.de/art-4-dsgvo/
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "alle Informationen über eine identifizierte oder identifizierbare Person; direkt oder indirekt, z. B. Name, Kennnummer, Online-Kennung"
+- id: q-dsgvo-art9
+  titel: Art. 9 Abs. 1 DSGVO – besondere Kategorien personenbezogener Daten
+  url: https://dsgvo-gesetz.de/art-9-dsgvo/
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Herkunft, politische Meinung, Religion/Weltanschauung, Gewerkschaft, genetische und biometrische Daten, Gesundheit, Sexualleben/sexuelle Orientierung"
+- id: q-dsgvo-art7
+  titel: Art. 7 DSGVO – Bedingungen für die Einwilligung
+  url: https://dsgvo-gesetz.de/art-7-dsgvo/
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Nachweispflicht (Abs. 1); Widerruf jederzeit, so einfach wie die Erteilung (Abs. 3)"
+- id: q-kug-22
+  titel: § 22 Kunsturhebergesetz – Recht am eigenen Bild
+  url: https://dejure.org/gesetze/KunstUrhG/22.html
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentlich zur Schau gestellt werden"
+- id: q-sgb8-8a
+  titel: § 8a SGB VIII – Schutzauftrag bei Kindeswohlgefährdung
+  url: https://dejure.org/gesetze/SGB_VIII/8a.html
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Abs. 4: Vereinbarungen mit Trägern – Gefährdungseinschätzung, insoweit erfahrene Fachkraft, Einbeziehung der Eltern"
+- id: q-rlp-kita
+  titel: Landesbeauftragter für Datenschutz Rheinland-Pfalz – Flyer „Datenschutz in Kitas“ (Länderbeispiel; Regeln in SH vergleichbar, ggf. ULD-Material ergänzen)
+  url: https://kita.rlp.de/fileadmin/kita/Traeger_und_Fachkraefte/Datenschutz/Dokumente/Flyer_Datenschutz_in_Kitas.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Veröffentlichung von Kinderfotos (Homepage, Presse) nur mit Einwilligung der Eltern; Kita nicht verantwortlich für private Aufnahmen der Eltern"
+- id: q-bsi-phishing
+  titel: BSI – Wie erkenne ich Phishing in E-Mails und auf Webseiten?
+  url: https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Spam-Phishing-Co/Passwortdiebstahl-durch-Phishing/Wie-erkenne-ich-Phishing-in-E-Mails-und-auf-Webseiten/wie-erkenne-ich-phishing-in-e-mails-und-auf-webseiten_node.html
+  art: hersteller
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Warnzeichen: Dringlichkeit, Drohung, Abfrage vertraulicher Daten, Links/Formulare, ungewöhnliche Bitte bekannter Absender, auffällige Adressen; https kein Vertrauensbeweis"
+- id: q-nextcloud-teilen
+  titel: Nextcloud Benutzerhandbuch – Dateien teilen (deutsch, latest)
+  url: https://docs.nextcloud.com/server/latest/user_manual/de/files/sharing.html
+  art: hersteller
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Teilen-Symbol, Seitenleiste Reiter Teilen, Passwortgeschützt, Ablaufdatum setzen, Freigabe aufheben; Admin kann Optionen ausblenden"
+- id: q-wiki-onboarding
+  titel: Onboarding für Schüler:innen am BBZ RD-ECK (BBZ-Wiki)
+  url: https://wiki.bbz-rd-eck.com/doku.php?id=anleitungen_lul:onboarding:onboarding_sus
+  art: eigene
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Passwortregeln am BBZ"
+- id: q-dr-konzept
+  titel: DR-Konzept SPA (Entwurf v0.5) und Übergabe-Briefing Web-Lernpfade; Fotoregel am BBZ (Angabe der Lehrkraft)
+  url: ""
+  art: eigene
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Bausteine von Lernpfad 2, Datenschutz-Merksatz, Fotoverbot im Unterricht und in den Pausen im Klassenraum auch mit Einwilligung"

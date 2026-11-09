@@ -1,0 +1,57 @@
+# Kursbeschreibung – Datenschutz und Recht am Bild (DR-Materialpool SPA, Querschnitts-Lernpfad K6)
+titel: Datenschutz und Recht am Bild
+kurzname: dr-spa-datenschutz
+ueberschrift: Datenschutz und Recht am Bild
+untertitel: Sie lernen, Ihre eigenen Daten zu schützen – und als künftige Fachkraft die Daten und Bilder von Kindern und Familien.
+badges: [SPA, K6 Datenschutz, "2 Stufen · ca. 5,5 Std."]
+fusszeile: BBZ Rendsburg-Eckernförde · Abteilung SPA · Materialpool Digitaler Raum · Stand 11/2026
+logo_zeichen: "§"
+sprache: de
+anrede: sie
+notizfrage: "Was nehmen Sie mit – für sich selbst und für Ihre Arbeit in Kita, OGS oder Grundschule?"
+
+einleitung: |
+  :::notiz 👉 Worum geht es?
+  In der Schule, privat und im Praktikum gehen Sie täglich mit Daten um: mit Ihren eigenen und mit denen anderer Menschen. Als sozialpädagogische Fachkraft tragen Sie Verantwortung für die Daten und Bilder von **Kindern und Familien**.
+
+  Der Lernpfad hat zwei Stufen: **Grundlagen** (Ihre eigenen Daten) und **Im Beruf** (Kita, OGS und Grundschule). Jede Stufe passt in einen DR-Tag.
+  :::
+
+  :::tipp So arbeiten Sie mit dem Lernpfad
+  1. Machen Sie zuerst den **Selbstcheck** unten.
+  2. Arbeiten Sie die Module einer Stufe der Reihe nach durch.
+  3. Jede Stufe endet mit einem **Meilenstein**, den Sie in Moodle abgeben.
+  4. Alle Fälle sind **erfunden**. Verwenden Sie auch selbst keine echten Namen oder Fotos aus Ihrer Praxis.
+  :::
+
+stufen:
+  - id: grundlagen
+    name: Grundlagen
+    icon: "🌱"
+    text: Personenbezogene Daten erkennen, Konten und Freigaben schützen, entscheiden, was Sie wo teilen.
+    module: [g1, g2, g3, gm]
+  - id: im-beruf
+    name: Im Beruf
+    icon: "🚀"
+    text: Recht am eigenen Bild in der Kita, Schweigepflicht und Beobachtung, Kita-Apps prüfen – und eine Fallanalyse.
+    module: [b1, b2, b3, bm]
+
+selbstcheck:
+  fragen:
+    - frage: Ich kann erklären, was personenbezogene Daten sind.
+      antworten: [Noch nicht, Ein bisschen, Ziemlich gut, Sicher]
+    - frage: Ich weiß, was ich in Schule, Privatleben und Praktikum teilen darf und was nicht.
+      antworten: [Noch nicht, Ein bisschen, Ziemlich gut, Sicher]
+    - frage: Ich setze Freigaben für Dateien in der Nextcloud bewusst (wer darf sehen, wer darf bearbeiten).
+      antworten: [Noch nicht, Ein bisschen, Ziemlich gut, Sicher]
+  empfehlung:
+    - {bis: 6, stufe: grundlagen, hinweis: "Starten Sie mit den Grundlagen – Modul G1."}
+    - {stufe: im-beruf, hinweis: "Die Grundlagen sitzen. Machen Sie den Einstufungstest – dann geht es weiter mit „Im Beruf“."}
+
+einstufung: {bestehen: 80}
+
+moodle:
+  version: 5
+  freischaltung: einstufung
+  reihenfolge: nacheinander
+  raster_punkte: [0, 2, 3]
