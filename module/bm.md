@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Fallanalyse"
 minuten: 60
-review: geprueft
+review: freigegeben
 meilenstein: true
 lernziele:
   - einen Fall mit einem Prüfschema strukturiert analysieren,

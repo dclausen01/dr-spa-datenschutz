@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Merkblatt „Was teile ich wo?“"
 minuten: 30
-review: geprueft
+review: freigegeben
 meilenstein: true
 lernziele:
   - das Wichtigste der Stufe Grundlagen verständlich zusammenfassen,
